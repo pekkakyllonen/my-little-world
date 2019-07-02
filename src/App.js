@@ -4,9 +4,9 @@ export default () => (
   <div className="App">
     <header className="App-header">
       <h1 className="App-title">Welcome To My Little World!</h1>
-    </header>
-    <p className="App-intro">
+      <h2>
       My name is TravisTest. Welcome, and hello!
-    </p>
+    </h2>
+    </header>
   </div>
 );
