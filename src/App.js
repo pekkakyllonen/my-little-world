@@ -3,7 +3,7 @@ import './App.css';
 export default () => (
   <div className="App">
     <header className="App-header">
-      <h1 className="App-title">Welcome To My Hello World!</h1>
+      <h1 className="App-title">Welcome To My Little World!</h1>
     </header>
     <p className="App-intro">
       My name is TravisTest. Welcome, and hello!
